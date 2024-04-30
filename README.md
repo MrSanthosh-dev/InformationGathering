@@ -30,6 +30,7 @@ http://www.whois.com/whoiswebsite to get detailed information about a domain nam
 # IP2LOCATION:
 ![image](https://github.com/MrSanthosh-dev/InformationGathering/assets/117916573/5918304d-13e3-404b-be7e-bd89e86f41a0)
 # WEBARCHIEVE:
+![image](https://github.com/MrSanthosh-dev/InformationGathering/assets/117916573/8572ac12-5606-48f0-adac-b78b69d8352e)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
